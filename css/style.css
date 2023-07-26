@@ -1,0 +1,21 @@
+nav{
+	background-color: black;
+}
+li{
+	display: inline;
+}
+#GF{
+	background: -webkit-linear-gradient(#70e015, rgb(255, 16, 223));
+	-webkit-background-clip: text;
+ 	-webkit-text-fill-color: transparent;
+  	font-size: 30px;
+  	font-family: Jazz LET, fantasy;
+}
+#nav2{
+	font-family:URW Chancery L, cursive;
+	color: rgb(182, 194, 159);
+}
+a{
+	color: rgb(182, 194, 159);
+	text-decoration:none;
+}
