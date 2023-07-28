@@ -36,6 +36,7 @@ img{
 	background: -webkit-linear-gradient(#3206f7, rgb(241, 14, 154));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
+	background-color: lavenderblush;
 }
 #exposicao{
 	width: 100%;
@@ -65,4 +66,76 @@ img{
 body{
 
 	background-color: black;
+}
+#contextoHorizon{
+	color: aquamarine;
+	width:50%;
+	font-family: Zapf-Chancery;
+	text-shadow:rgb(196, 20, 231) 2px 1px 1px;
+	font-size:50;
+}
+#DHorizon{
+	width:50%;
+	border-left: grey;
+}
+#desH{
+	height:300px;
+}
+#imgH{
+	margin-left:10vw;
+	margin-top: 2vw;;
+	width: 35vw;;
+}
+#barbiepic{
+	width: 5vw;
+	height:5vw;
+}
+#barbiepicenter{
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left: 5vw;;
+
+}
+#barbiepic2{
+	width: 5vw;
+	height:5vw;
+	margin-left: 10vw;
+
+}
+#Bdestaque{
+	text-align: justify;
+	font-family: Apple Chancery, cursive;
+	width: 50%;
+}
+#Bdestaque:hover{
+	color: rgb(216, 112, 176);
+	text-shadow: white 1px 2px 1px;
+}
+#fc{
+	
+	width:14vw;
+	height: 13vw;
+}
+#bGeral{
+	width:100%;
+	display: flex;
+	height: 220px;
+}
+#far{
+	overflow: hidden;
+}
+#far:hover{
+	color: brown;
+	text-shadow: whitesmoke 1px 1px 1px;
+	font-family: 'Courier New', Courier, monospace;
+}
+footer{
+	opacity: 0.3;
+	color: rgb(240, 6, 201);
+	text-shadow: #70e015 1px 1px 1px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#farcry{
+	height:13vw;
+	width:12vw;
 }
