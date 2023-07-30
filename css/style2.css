@@ -1,0 +1,30 @@
+#destaqueCarouselSobre{
+    width: 50%;
+}
+li{
+    display: inline;
+}
+
+#df{
+    width:30vw;
+    height:20vw;
+}
+#DestaqueSobre{
+    margin-top:15px;
+    margin-left: 50px;
+   
+}
+#desafios1{
+    width:10vw;
+    height:8vw;
+}
+nav{
+   background-color: brown;
+  
+}
+#qs{
+    width: 100%;
+   border-top: 0.05rem outset rgb(187, 174, 176); 
+   border-bottom: 0.05rem outset rgb(187, 174, 176); 
+    
+}
